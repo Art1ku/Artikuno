@@ -1,0 +1,236 @@
+
+.body{
+
+}
+.mother{
+background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1612863879_33-p-krasnii-fon-dlya-saita-41.png);
+background-attachment: fixed;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+height: 1200px;
+width: 1895px;
+
+
+}
+.conteiner{
+
+}
+.avatar{
+background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/17/49/09/76/caption.jpg);
+height: 190px;
+width: 200px;
+display: inline-block;
+background-position: center;
+background-size: cover;
+margin-left: 18px;
+margin-right: 30px;
+margin-bottom: -18px;
+margin-top: 10px;
+border-radius: 10px;
+border-width: 1px;
+border-style: solid;
+}
+.header{
+border-width: 2px;
+border-style: solid;
+border-color: white;
+background: linear-gradient(to bottom right, darkred, #DC143C);
+opacity: 0.7;
+border-radius: 40px;
+width: 1550px;
+height: 220px;
+display: inline-block;
+padding: 20px;
+margin-top: 30px;
+}
+.shtorka{
+border-width: 2px;
+border-style: solid;
+border-color: white;
+background: linear-gradient(to bottom right, darkred, #DC143C);
+opacity: 0.7;
+border-radius: 40px;
+width: 195px;
+height: 500px;
+display: inline-block;
+margin-left: 5px;
+margin-top: 0px;
+padding-left: 15px;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-right: 15px;
+color: white;
+}
+.mainconteiner{
+display: inline-block;
+}
+.conteiner2{
+margin: 10px;
+display: inline-block;
+}
+.namecherry{
+width: 500px;
+height: 70px;
+border-width: 2px;
+border-style: solid;
+border-color: white;
+padding-left: 80px;
+padding-top: 50px;
+border-radius: 20px;
+display: inline-block;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+color: white;
+padding-right: 10px;
+margin-top: -10px;
+padding-bottom: -10px;
+}
+.creditss{
+
+height: 40px;
+width: 150px;
+border-width: 2px;
+border-color: white;
+border-style: solid;
+border-radius: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 25px;
+padding-left: 30px;
+padding-top: 8px;
+margin-left: 5px;
+margin-bottom: 15px;
+margin-top: 15px;
+}
+.creditss1{
+height: 40px;
+width: 150px;
+border-width: 2px;
+border-color: white;
+border-style: solid;
+border-radius: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 25px;
+padding-left: 30px;
+padding-top: 8px;
+margin-left: 5px;
+margin-bottom: 15px;
+}
+.creditss2{
+height: 40px;
+width: 125px;
+border-width: 2px;
+border-color: white;
+border-style: solid;
+border-radius: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 25px;
+padding-left: 55px;
+padding-top: 8px;
+margin-left: 5px;
+margin-bottom: 15px;
+}
+.creditss3{
+height: 40px;
+width: 150px;
+border-width: 2px;
+border-color: white;
+border-style: solid;
+border-radius: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 25px;
+padding-left: 30px;
+padding-top: 8px;
+margin-left: 5px;
+margin-bottom: 15px;
+}
+.shirts{
+color: black;
+text-decoration: none;
+}
+.homeland{
+    margin-left: 100px;
+    display: inline-block;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: white;
+    padding: 5px;
+    margin-left: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.news{
+    display: inline-block;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: white;
+    padding: 5px;
+    margin-left: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.contacts{
+    display: inline-block;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: white;
+    padding: 5px;
+    margin-left: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.creditsss{
+    display: inline;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: white;
+    padding: 5px;
+    margin-left: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.creators{
+    display: inline-block;
+    border-style: solid;
+    border-width: 0px 0px 2px 0px;
+    border-color: white;
+    padding: 5px;
+    margin-left: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+.navigation{
+    margin-top: 10px;
+    display: inline;
+}
+.newspaper{
+    margin-left: 20px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+    width: 1590px;
+    height: 600px;
+    display: inline-block;
+    margin-top: 30px;
+    border-radius: 25px;
+}
+.newsb{
+    padding-left: 200px;
+    color: white;
+    font-size: 25px;
+    top: 100px;
+    display: inline;
+    margin: 0px;
+}
+.innews{
+    display: inline;
+    margin-top: 20px;
+    width: 1000px;
+    height: 500px;
+}
